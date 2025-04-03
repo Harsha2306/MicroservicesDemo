@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: product-service
+  data:
+    mongodb:
+      uri: mongodb+srv://harsha:WBAj99YUJ0PdoacT@harsha.xastq.mongodb.net/?retryWrites=true&w=majority&appName=Harsha
+      database: microservicesDemo
+      auto-index-creation: true
+  main:
+    banner-mode: off
+
+server:
+    port: 8081
