@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: service-registry
+  main:
+    banner-mode: off
+server:
+  port: 8761
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    fetchRegistry: false
+    registerWithEureka: false
