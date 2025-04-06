@@ -7,7 +7,7 @@
         <artifactId>microservices-parent</artifactId>
         <version>1.0.0-SNAPSHOT</version> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.harsha</groupId>
+
     <artifactId>service-registry</artifactId>
     <name>service-registry</name>
     <description>Demo project for Spring Boot</description>
