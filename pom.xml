@@ -19,6 +19,7 @@
     </properties>
 
     <modules>
+        <module>api-gateway</module>
         <module>service-registry</module>
         <module>order-service</module>
         <module>product-service</module>

@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: api-gateway
+  main:
+    banner-mode: off
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+
+server:
+  port: 8080
